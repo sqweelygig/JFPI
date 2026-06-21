@@ -4,7 +4,7 @@ Cheating Moth is an excellent game by Emely & Lukas Brand.
 It supports 3-5 players and lasts about 20 minutes.
 At time of writing the game is very available.
 
-## JFPI Setup
+## Setup
 
 I know that some of these rules are different to the core ruleset, but I think they make the game more fun for new players.
 
@@ -13,8 +13,8 @@ I know that some of these rules are different to the core ruleset, but I think t
 1. Place the green card face-up near the top of the deck.
 1. Deal 7 cards to each player.
 1. Place the remaining cards face-down in a draw pile.
-1. Read "How to Play", stopping when you reach "Action cards".
-1. Explain that the Guard Bug starts the game by turning over the top card, and this is exactly as if they had played it.
+1. Read "How to Play", stopping without explaining "Action cards".
+1. State that the Guard Bug starts the game by turning over the top card, and this is exactly as if they had played it.
 1. **Play!**
 
 ## Someone was too good at this game...
