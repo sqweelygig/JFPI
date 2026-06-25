@@ -4,12 +4,17 @@ Cheating Moth is an excellent game by Emely & Lukas Brand.
 It supports 3-5 players and lasts about 20 minutes.
 At time of writing the game is very available.
 
-## Setup
+## Preparation
+
+These steps can be done before the game is introduced to new players.
+
+1. Prune the deck down to just the grey and purple cards.
+
+## Setup & Explanation
 
 I know that some of these rules are different to the core ruleset, but I think they make the game more fun for new players.
 
-1. Prune the deck down to just the grey and purple cards.
-1. Shuffle these cards.
+1. Shuffle the deck.
 1. Place the green card face-up near the top of the deck.
 1. Deal 7 cards to each player.
 1. Place the remaining cards face-down in a draw pile.
