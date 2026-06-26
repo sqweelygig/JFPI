@@ -14,13 +14,14 @@ An easy way for a club supervisor to introduce the game is to model being the ju
 
 Note that I find the game more fun if the judge hams up their narration of the cards a little. Not everyone agrees.
 
-1. Shuffle a small section of each deck separately.
+1. Shuffle a bit of each deck. You won't need the full deck, and it doesn't need to be a good shuffle.
 1. Deal 7 red cards to each player.
 1. Draw 1 green card and place it face-up in the middle of the table.
-1. State "From your red cards, choose the one that I will think best matches this card. I might consider humour, accuracy, satire or any other criteria. Place it face-down in front of you, then draw back up to 7 cards.".
+1. State "From your red cards, choose one that I will think best matches this card. I might consider accuracy, humour, satire or any other criteria. Place it face-down in front of you, then draw back up to 7 cards.".
 1. Once everyone has played a red card, gather them up, shuffle them, and read them aloud.
 1. Chose one of the cards, with a brief explanation of why you chose it. State "Whoever played that card gets the green card, just keep it in front of you as score.".
-1. Explain that the judge role moves clockwise around the table, indicate who the next judge is and clarify that judges don't play red cards. Let them know to draw a green card and repeat the process.
+1. Explain that the judge role moves clockwise around the table, indicate who the next judge is and clarify that judges don't play red cards.
+1. Let them know to draw a green card and repeat the process.
 1. **Let them play!**
 
 ## That wasn't personal enough...
