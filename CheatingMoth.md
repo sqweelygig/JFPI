@@ -8,16 +8,17 @@ At time of writing the game is very available.
 
 These steps can be done before the game is introduced to new players.
 
-1. Prune the deck down to just the grey and purple cards.
+1. Prune the deck down to just the grey and Moth (purple) cards.
 
 ## Setup & Explanation
 
 I know that some of these rules are different to the core ruleset, but I think they make the game more fun for new players.
 
 1. Shuffle the deck.
-1. Place the green card face-up near the top of the deck.
+1. Place the Guard Bug (green) card face-up near the top of the deck.
 1. Deal 7 cards to each player.
 1. Place the remaining cards face-down in a draw pile.
+1. When players collect their hands, tell the Guard Bug to leave that card in front of them.
 1. Read "How to Play", stopping without explaining "Action cards".
 1. State that the Guard Bug starts the game by turning over the top card, and this is exactly as if they had played it.
 1. **Play!**
@@ -32,14 +33,19 @@ Yes, "play" not "hide", you may not win by hiding your final card.
 ... so you need a way to slow down front-runners.
 
 * Read the "Spider" rules from the "Action cards" section.
-* Shuffle the yellow cards into the deck.
+* Show everyone the Spider (yellow) cards.
+* Shuffle the Spider (yellow) cards into the deck.
 
 ## The game ended way too quickly...
 
 ... so you need to put more cards into everyone's hands.
 
 * Read the "Ant" rules from the "Action cards" section.
-* Shuffle the blue cards into the deck.
+* Show everyone the Ant (blue) cards.
+* Shuffle the Ant (blue) cards into the deck.
+
+## The game still ends too quickly...
+
 * If you've added most of the coloured cards, or you've less than 5 players, you should deal 8 cards to each player.
 
 ## We needed better distractions...
@@ -47,7 +53,8 @@ Yes, "play" not "hide", you may not win by hiding your final card.
 ... so you need to add more visual noise and demands upon attention.
 
 * Read the "Cockroach" rules from the "Action cards" section.
-* Shuffle the orange cards into the deck.
+* Show everyone the Cockroach (orange) cards.
+* Shuffle the Cockroach (orange) cards into the deck.
 
 ## The game needs even more chaos...
 
@@ -55,4 +62,5 @@ Yes, "play" not "hide", you may not win by hiding your final card.
 
 * Read the "Mosquito" rules from the "Action cards" section.
 * Check even is okay with these rules.
-* Shuffle the pink cards into the deck.
+* Show everyone the Mosquito (pink) cards.
+* Shuffle the Mosquito (pink) cards into the deck.
