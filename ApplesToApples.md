@@ -1,6 +1,8 @@
 # Apples To Apples
 
-Apples to Apples is a party game by Mark Alan Osterhaus & Matthew Kirby. It supports 4-10 players and lasts about 40 minutes. At time of writing the game is very available.
+Apples to Apples is a party game by Mark Alan Osterhaus & Matthew Kirby.
+It supports 4-10 players and lasts about 40 minutes.
+At time of writing the game is very available.
 
 ## Preparation
 
@@ -10,7 +12,9 @@ These steps can be done before the game is introduced to new players.
 
 ## Setup & Explanation
 
-An easy way for a club supervisor to introduce the game is to model being the judge for the first round. Then supervise the second round with a different judge. This allows you to explain the rules and demonstrate how to play without having to commit to the full game.
+An easy way for a club supervisor to introduce the game is to model being the judge for the first round.
+Then supervise the second round with a different judge.
+This allows you to explain the rules and demonstrate how to play without having to commit to the full game.
 
 Note that I find the game more fun if the judge hams up their narration of the cards a little. Not everyone agrees.
 
