@@ -28,6 +28,11 @@ Note that I find the game more fun if the judge hams up their narration of the c
 1. Let them know to draw a green card and repeat the process.
 1. **Let them play!**
 
+## Winning
+
+Play for 12 rounds, and then until everyone has judged the same number of rounds.
+The person with the most green cards in front of them has won.
+
 ## That wasn't personal enough...
 
 * Explain that if a card has "My ..." on it, it is from the judge's perspective, as they cannot know who played it.

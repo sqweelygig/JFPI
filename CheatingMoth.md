@@ -22,6 +22,11 @@ I know that some of these rules are different to the core ruleset, but I think t
 1. State that the Guard Bug starts the game by turning over the top card, and this is exactly as if they had played it.
 1. **Play!**
 
+## Winning
+
+The player who plays their last card, so emptying their hand, wins the game.
+Yes, "play" not "hide", you may not win by hiding your final card.
+
 ## Someone was too good at this game...
 
 ... so you need a way to slow down front-runners.
