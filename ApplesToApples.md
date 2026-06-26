@@ -16,7 +16,8 @@ An easy way for a club supervisor to introduce the game is to model being the ju
 Then supervise the second round with a different judge.
 This allows you to explain the rules and demonstrate how to play without having to commit to the full game.
 
-Note that I find the game more fun if the judge hams up their narration of the cards a little. Not everyone agrees.
+Note that I find the game more fun if the judge hams up their narration of the cards a little.
+Not everyone agrees.
 
 1. Shuffle a bit of each deck. You won't need the full deck, and it doesn't need to be a good shuffle.
 1. Deal 7 red cards to each player.
