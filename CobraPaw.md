@@ -12,7 +12,7 @@ To win is not.
 
 The only problem is that everyone is trying to do the same thing at the same time.
 They will be looking at the symbols you rolled, and trying to claim the domino.
-They may also reach across the table to claim a domino you had previously claimed.
+They may also reach across the table to claim a domino you had previously claimed, if the symbols match.
 
 ## Winning
 
