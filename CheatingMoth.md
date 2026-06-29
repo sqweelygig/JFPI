@@ -1,6 +1,6 @@
 # Cheating Moth
 
-Hide cards to win the game, but be careful, the Guard Bug is watching.
+Cheat at cards to win the game, but be careful, the Guard Bug is watching.
 
 ## Preparation
 
@@ -24,7 +24,7 @@ I know that some of these rules are different to the core ruleset, but I think t
 ## Winning
 
 The player who plays their last card, so emptying their hand, wins the game.
-Yes, "play" not "hide", you may not win by cheating away your final card.
+Yes, "play" not "cheat", you may not win by cheating away your final card.
 
 ## Someone was too good at this game...
 
