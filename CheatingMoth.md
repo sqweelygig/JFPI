@@ -15,7 +15,7 @@ I know that some of these rules are different to the core ruleset, but I think t
 1. Shuffle the deck.
 1. Place the Guard Bug (green) card face-up near the top of the deck.
 1. Deal 7 cards to each player.
-1. Tell the Guard Bug to leave the green card in front of them.
+1. Whoever's dealt the green card is the Guard Bug and should leave it in front of them.
 1. Place the remaining cards face-down in a draw pile.
 1. Read "How to Play", stopping without explaining "Action cards".
 1. State that the Guard Bug starts the game by turning over the top card, and this is exactly as if they had played it.
