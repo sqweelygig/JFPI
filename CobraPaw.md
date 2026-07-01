@@ -1,9 +1,11 @@
 # Cobra Paw
 
-To play Cobra Paw is simple.
-To win is not.
+A game of speed, observation and dexterity.
 
 ## Setup & Explanation
+
+To play Cobra Paw is simple.
+To win is not.
 
 1. Roll the dice
 1. Find the matching domino
@@ -12,7 +14,7 @@ To win is not.
 
 The only problem is that everyone is trying to do the same thing at the same time.
 They will be looking at the symbols you rolled, and trying to claim the domino.
-They may also reach across the table to claim a domino you had previously claimed, if the symbols match.
+They may also reach across the table to steal a previously claimed domino, if the symbols match.
 
 ## Winning
 
