@@ -19,7 +19,7 @@ Not everyone agrees, but then not everyone is correct.
 1. Place the green card face-up in the middle of the table and state "From your red cards, choose one that I will think best matches this card. I might consider accuracy, humour, satire or any other criteria. Place it face-down in front of you, then draw back up to 7 cards.".
 1. Draw back up to 7 red cards, while everyone is choosing what card they should play.
 1. Once everyone has played a red card, gather them up, shuffle them, and read them aloud.
-1. Choose one of the cards, with a brief explanation of why you chose it. State "Whoever played that card gets the green card, just keep it in front of you as score.".
+1. Choose one of the cards, with a brief explanation of why you chose it. State "Whoever played that card gets to keep it in front of you as score.".
 1. Explain that the judge role moves clockwise around the table, indicate who the next judge is and clarify that judges don't play red cards. Let them know to draw a green card and repeat the process.
 
 An easy way for a club organiser to introduce the game is to judge the first round, then supervise the second round with a different judge.
